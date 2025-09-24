@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💰 Finance Assistant Bot
 
 Телеграм-бот — персональный финансовый помощник.  
@@ -66,3 +67,7 @@ python-dotenv
 
 
 
+=======
+# finance-assistant-telegram-bot
+ “My first portfolio finance-assistant-telegram-bot”
+>>>>>>> fc0afe2eab1466522af6e7e373652fcaed2c59ca
